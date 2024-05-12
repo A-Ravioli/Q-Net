@@ -47,16 +47,8 @@ To start a basic simulation using the Q-Net model, run the following command:
 python simulate.py
 ```
 
-## Contribution
-
-Contributions to the Q-Net project are welcome! Whether it is through reporting issues, proposing new features, or submitting pull requests, all input is valuable. Please read `CONTRIBUTING.md` for guidelines on how to contribute effectively.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
-
-## Contact
-
-For further inquiries, contact the project team at [email@example.com](mailto:email@example.com).
 
 ---
